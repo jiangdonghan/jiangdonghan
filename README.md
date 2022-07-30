@@ -37,6 +37,6 @@
 
 <p align="center">
 <a href="https://www.donghan.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.donghan.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/donghan-jiang-675962104/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Donghan%20Jiang-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/donghan-jimmy-jiang-675962104/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Donghan%20Jiang-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jdh67246@gmail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jdh67246@gmail?style=flat-square&logo=gmail"></a>
 </p>
