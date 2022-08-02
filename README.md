@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Full Stack Developer at [Agora.io](https://www.agora.io/cn/).
+- 💼 &nbsp; Working as a Full Stack Developer at [Agora.io](https://www.agora.io).
 - ✍️ &nbsp; Pursuing Music, Photograhpy and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
